@@ -32,7 +32,10 @@ public class BaseTest extends CommonPageCMS {
 	
       }
       DriverManager.setDriver(driver);
+	           driver.manage().window().maximize();
+
 	  System.out.println("Driver Setup Done");
+	  
    }
    @AfterMethod(alwaysRun = true)
    public void closeDriver() {
