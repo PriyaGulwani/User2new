@@ -63,6 +63,10 @@ public class BaseTest extends CommonPageCMS {
    public void getDriverState(){
 	   System.out.println("Driver Initialized");
    }
+   
+   public void getDriverStateNew(){
+	   System.out.println("Driver Initialized");
+   }
 
 	public void printState(){
 			   System.out.println("print state");
