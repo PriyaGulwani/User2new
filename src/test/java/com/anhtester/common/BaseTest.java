@@ -64,4 +64,9 @@ public class BaseTest extends CommonPageCMS {
 	   System.out.println("Driver Initialized");
    }
 
+	public void printState(){
+			   System.out.println("print state");
+	}
+		
+
 }
