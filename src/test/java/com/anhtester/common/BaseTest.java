@@ -66,6 +66,9 @@ public class BaseTest extends CommonPageCMS {
    
    public void getDriverStateNew(){
 	   System.out.println("Driver Initialized");
+	   
+	   public void printStashed(){
+					   System.out.println("print state");
    }
 
 	public void printState(){
@@ -78,6 +81,7 @@ public void printStat(){
 =======
 	public void printSta(){
 					   System.out.println("print state");
+					   
 
 >>>>>>> Stashed changes
 }
