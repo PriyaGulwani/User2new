@@ -69,6 +69,8 @@ public class BaseTest extends CommonPageCMS {
 	   
 	   public void printStashed(){
 					   System.out.println("print state");
+		   public void printStateed(){
+			   System.out.println("print state");
    }
 
 	public void printState(){
