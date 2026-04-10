@@ -75,6 +75,9 @@ public class BaseTest extends CommonPageCMS {
 
 	public void printState(){
 			   System.out.println("print state");
+			   
+			   public void printState(){
+			   System.out.println("print state");}
 	}
 		
 
