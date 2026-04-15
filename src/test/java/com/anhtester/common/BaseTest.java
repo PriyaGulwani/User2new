@@ -88,6 +88,7 @@ public class BaseTest extends CommonPageCMS {
 	public void printSta(){
 					   System.out.println("print state");
 					   
-
+    public void printStatic(){
+					   System.out.println("print static");
 >>>>>>> Stashed changes
 }
